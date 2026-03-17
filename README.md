@@ -20,6 +20,17 @@ I am a graduate of Bachelor of Science in Computer Science and Information Techn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
 </p>
 
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:adhikaribishalme@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail" height="30" style="margin-right:10px"/>
+  </a>
+  <a href="https://linkedin.com/in/bishal-adhikari-88143514a" target="_blank" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin" height="30" style="margin-right:10px"/>
+  </a>
+</p>
+
 
 
 
