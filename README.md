@@ -23,12 +23,8 @@ I am a graduate of Bachelor of Science in Computer Science and Information Techn
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:adhikaribishalme@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail" height="30" style="margin-right:10px"/>
-  </a>
-  <a href="https://linkedin.com/in/bishal-adhikari-88143514a" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin" height="30" style="margin-right:10px"/>
-  </a>
+  Email: <a href="mailto:yourname@email.com" target="_blank">adhikaribishalme@gmail.com</a>
+  LinkedIn: <a href="https://linkedin.com/in/bishal-adhikari-88143514a" target="_blank">linkedin.com/in/bishal-adhikari-88143514a</a>
 </p>
 
 
